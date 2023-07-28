@@ -1,4 +1,4 @@
-# Diagonal Pattern Program
+# Diagonal Pattern
 
 This Java program takes input from the user and displays a diagonal pattern using asterisks (*).
 
